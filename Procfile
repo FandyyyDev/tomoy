@@ -1,1 +1,1 @@
-worker: npm install adiwajshing/baileys && npm start
+worker: npm start
